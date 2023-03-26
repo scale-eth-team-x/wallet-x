@@ -22,13 +22,13 @@ These limitations affect the accessibility of crypto, especially for those who r
 ![problem](./image/problem.png)
 
 ## Our Solution
-WalletX is a plugins marketplace for AA wallet features that addresses these limitations and empowers users to have a more tailored and personalized wallet experience.
+WalletX is the modular account abstraction wallet that revolutionizes the way users interact with cryptocurrencies. Our platform provides a plugins marketplace that addresses the limitations of traditional wallets and enables users to tailor their experience based on their unique needs by leveraging account abstraction technologies.
+
+With WalletX, users have the freedom to select any combination of plugins from our extensive library, creating personalized wallets that meet their specific requirements. Additionally, our platform is decentralized, meaning developers from all over the world can contribute to the plugins marketplace, making it the ultimate hub for innovation in the world of AA wallets.
+
 
 ![solution](./image/solution.png)
 
-Users will able to pick any amount of plugins available on our platform and creating personalised wallet relevant to their use case.
-
-Creation of features are also decentralised and accessible to everyone. Developers able to create plugins with any kind of logics they can think of and list them on WalletX.
 
 ## Technologies & How WalletX works
 
